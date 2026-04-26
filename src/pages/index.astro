@@ -14,7 +14,7 @@ blog.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getT
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nishit Singh</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href={import.meta.env.BASE_URL + "style.css"}>
     <!-- KaTeX CSS for LaTeX rendering -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
 </head>
