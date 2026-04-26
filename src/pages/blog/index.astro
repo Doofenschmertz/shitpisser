@@ -70,7 +70,7 @@ function formatLatest(dateStr: string) {
             {pinnedPost ? (
                 <div class="blog-pinned">
                     <h2 class="blog-pinned-title">
-                        <a href={`/blog/${pinnedPost.slug}`}>{pinnedPost.data.title}</a>
+                        <a href={`${import.meta.env.BASE_URL}blog/${pinnedPost.slug}`}>{pinnedPost.data.title}</a>
                     </h2>
                     <p class="blog-pinned-meta">
                         {pinnedPost.data.date}
@@ -105,10 +105,10 @@ function formatLatest(dateStr: string) {
                     }
                 </div>
                 <div class="item-content">
-                    <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+                    <h3><a href={`${import.meta.env.BASE_URL}blog/${post.slug}`}>{post.data.title}</a></h3>
                     <p class="author">Nishit Singh</p>
                     {post.data.readTime && <p class="date">{post.data.readTime} read</p>}
-                    <a href={`/blog/${post.slug}`}>read</a>
+                    <a href={`${import.meta.env.BASE_URL}blog/${post.slug}`}>read</a>
                 </div>
             </div>
         )) : (
