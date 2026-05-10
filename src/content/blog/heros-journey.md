@@ -1,18 +1,43 @@
 ---
-title: "the hero's journey is from the couch to the fridge."
-date: "30 MAR 2026"
+title: "what im reading / watching / listening to"
+date: "Last updated in March 2026"
 readTime: "2 min"
 pinned: true
 teaser: "got"
+thumbnail: "public/assets/Screenshot 2026-05-10 at 6.02.20 AM.png"
 ---
-This is a longer post designed to test the footnote functionality across multiple paragraphs.
+Recently, I've been pulled into media which discusses language. Call it an adolescent infatuation with Sapir-Whorf[^1] and so on and so on. Have been conducting a lot of solo work on language models, the science of learning[^2], and watching the different ways knowledge is quantified in different languages is super fun. Achebe's book was a once in a lifetime first read, and I am quite sad that I chewed through it in one fell swoop in an airplane. Something tells me it will be a once in a lifetime second read as well.
 
-We often wonder about the vastness of the universe and our place within it. Sometimes, these thoughts lead us to profound realizations, or at the very least, a feeling of insignificance[^1]. But then we get hungry and the existential dread fades away.
+-project hail mary, andy weir/chris miller/phil lord [^3]
 
-As we make our way from the couch to the fridge, we embark on what Joseph Campbell might arguably classify as a modern monomyth[^2]. We face trials (stubbing our toe on the coffee table), encounter mentors (the cat judging us from the armchair), and eventually reach the ultimate boon (leftover pizza).
+-arrival, denis villeneuve
 
-And so, the journey concludes, leaving us nourished and ready to return to our ordinary world (the couch), awaiting the next call to adventure.
+-things fall apart, chinua achebe
 
-[^1]: According to a highly unscientific survey I conducted at 3am, 100% of people feel insignificant when looking at the stars, unless they are distracted by a passing airplane.
+-catch-22, joseph heller
 
-[^2]: Campbell's *The Hero with a Thousand Faces* probably didn't anticipate the heroic qualities of a midnight snack run, but the structural parallels are undeniable if you squint hard enough.
+-nausea, jean-paul sartre
+
+-in which annie gives it those ones, pradip krishen
+
+-ruab, dhanji
+
+-gangs of wasseypur, anurag kashyap
+
+-gangs of wasseypur soundtrack, sneha khanwalker
+
+-the glow pt.2, the microphones
+
+-songs, adrianne lenker
+
+-revengeseekerz, jane remover
+
+-scaring the hoes, jpegmafia
+
+-imaginal disk, magdalena bay
+
+[^1]: [1] Linguistic relativity (or the Sapir-Whorf hypothesis) asserts that language influences worldview or cognition. 
+
+[^2]: [2] And unnlearning. We are all brain surgeons for machine learning models. Ablate this, sweep that, prune this...
+
+[^3]:[3] If you have seen the film/read the book, a fun thought experiment could be figuring out how you would establish a word as abstract as "knowledge" or "be" with an alien, if you were in Dr. Grace's postion. "Rocky sad. Statement.", "How rocky know what sad is?"
